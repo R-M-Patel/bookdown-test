@@ -3,3 +3,5 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
+edit: https://github.com/RMP40/bookdown-test/edit/master/%s
+view: https://github.com/RMP40/bookdown-test/blob/master/%s
